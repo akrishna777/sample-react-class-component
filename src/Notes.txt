@@ -1,0 +1,20 @@
+Real dom and virtual dom
+Real Dom ->
+CREATES a new DOM if any element is updated
+
+Virtual ->
+Update the JSX if element is updated
+
+React -> Virtual DOM
+
+JSX ->
+Javascript XML -> HTML + JS= JSX
+
+USing react we can deevlop reusable components
+
+Types of components: 
+1. Functional components
+2. Class components
+
+React boilerplate -> npx create-react-app appname
+nmp start
